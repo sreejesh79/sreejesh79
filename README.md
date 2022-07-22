@@ -18,5 +18,5 @@ An experienced and successful player, with proven abilities and excellent track 
 **Containers** : Docker.<br/>
 **DNS Management Services** : AWS Route53, Godaddy, Namecheap.<br/>
 ## Testimonial ##
-```"We worked with Sreejesh Pillai for three years to build our SaSS Looklook. He is the software engineering expert you find and keep. He has comprehensive capabilities and his answer to "is it possible" is consistently YES. He is a man of few words, but he always delivers on time and with confidence. No project is challenging for him, Sreejesh will find a way. There are no communication concerns. If you are looking for a resource with complete integrity you can trust, I recommend Sreejesh with no hesitation."```<br/>
+```"We worked with Sreejesh Pillai for three years to build our SaaS Looklook. He is the software engineering expert you find and keep. He has comprehensive capabilities and his answer to "is it possible" is consistently YES. He is a man of few words, but he always delivers on time and with confidence. No project is challenging for him, Sreejesh will find a way. There are no communication concerns. If you are looking for a resource with complete integrity you can trust, I recommend Sreejesh with no hesitation."```<br/>
                                   -- Malinda Sanna, Founder & CEO, Spark Ideas LLC.
