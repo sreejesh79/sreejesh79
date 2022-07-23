@@ -3,7 +3,6 @@
 An experienced and successful player, with proven abilities and excellent track record of building Web, Desktop & Mobile applications, delivering projects for clients with high quality and on time, both in India and abroad and managing teams which work across multiple projects and domains.<br/>
  * Around 20 years of experience in E-learning, M-Learning, providing Saas Solutions, Web, Desktop and Mobile applications, Client Services & Project Management. 
  * 8 years of experience in MEAN Stack & 5 years of experience in MERN Stack.
- * **Domains** : Financial Services, Elearning, Mobile Learning.
  * Hands on experience with providing full stack SaaS solutions which includes both web and mobile applications.
  * Good understanding of the microservice and multi-tenant application architecture.
  * Hands on experience with AmazonWebServices which includes s3, lamdafunctions, AWSKMS, AWSTranscribe, cloudfront, AWSlightsail, EC2 & Route53
@@ -14,7 +13,7 @@ An experienced and successful player, with proven abilities and excellent track 
 **Front End Web** : React, Redux ToolKit, Angular 10+, ngrx, jquery.<br/>
 **Front End Mobile** : React Native, Android Native, IOS Native.<br/>
 **Scripting Languages** : Typescript, Javascript.<br/>
-**AWS** : S3 Buckets, Lamda Functions, KMS, Transcribe, Couldfront, Lightsail, EC2, Route53.<br/>
+**INFRA** : AWS S3 Buckets, AWS Lamda Functions, AWS KMS, AWS Transcribe, AWS Couldfront, AWS Lightsail, AWS EC2, AWS Route53 & Firebase.<br/>
 **Desktop Applications** : ElectronJS.<br/>
 **Containers** : Docker.<br/>
 **DNS Management Services** : AWS Route53, Godaddy, Namecheap.<br/>
