@@ -5,6 +5,7 @@ An experienced and successful player, with proven abilities and excellent track 
  * 8 years of experience in MEAN Stack & 5 years of experience in MERN Stack.
  * **Domains** : Financial Services, Elearning, Mobile Learning.
  * Hands on experience with providing full stack SaaS solutions which includes both web and mobile applications.
+ * Good understanding of the microservice and multi-tenant application architecture.
  * Hands on experience with AmazonWebServices which includes s3, lamdafunctions, AWSKMS, AWSTranscribe, cloudfront, AWSlightsail, EC2 & Route53
 ## Tech Stack ##
 **BackEnd** : NodeJs, ExpressJs, Serverless, SailsJs, PHP.<br/>
