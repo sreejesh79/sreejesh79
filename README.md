@@ -11,7 +11,7 @@ An experienced and successful player, with proven abilities and excellent track 
 **Database** : PostgreSQL, MySql, MongoDB.<br/>
 **ORM/ODM** : TypeORM, Mongoose.<br/>
 **Front End Web** : React, Redux ToolKit, Angular 10+, ngrx, jquery.<br/>
-**Front End Mobile** : React Native, Android Native, IOS Native.<br/>
+**Front End Mobile** : React Native, IONIC.<br/>
 **Scripting Languages** : Typescript, Javascript.<br/>
 **INFRA** : AWS S3 Buckets, AWS Lamda Functions, AWS KMS, AWS Transcribe, AWS Couldfront, AWS Lightsail, AWS EC2, AWS Route53 & Firebase.<br/>
 **Desktop Applications** : ElectronJS.<br/>
