@@ -1,7 +1,7 @@
 # Chief Architect #
 ## About ##
 An experienced and successful player, with proven abilities and excellent track record of building Web, Desktop & Mobile applications, delivering projects for clients with high quality and on time, both in India and abroad and managing teams which work across multiple projects and domains.<br/>
- * Around 20 years of experience in E-learning, M-Learning, providing Saas Solutions, Web, Desktop and Mobile applications, Client Services & Project Management. 
+ * 20 years of experience in E-learning, M-Learning, providing Saas Solutions, Web, Desktop and Mobile applications, Client Services & Project Management. 
  * 8 years of experience in MEAN Stack & 5 years of experience in MERN Stack.
  * Hands on experience with providing full stack SaaS solutions which includes both web and mobile applications.
  * Good understanding of the microservice and multi-tenant application architecture.
