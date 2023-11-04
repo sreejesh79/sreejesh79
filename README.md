@@ -1,4 +1,4 @@
-# Chief Architect #
+# Solution Architect #
 ## About ##
 An experienced and successful player, with proven abilities and excellent track record of building Web, Desktop & Mobile applications, delivering projects for clients with high quality and on time, both in India and abroad and managing teams which work across multiple projects and domains.<br/>
  * 20 years of experience in E-learning, M-Learning, providing Saas Solutions, Web, Desktop and Mobile applications, Client Services & Project Management. 
