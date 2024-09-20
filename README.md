@@ -9,15 +9,15 @@ An experienced and successful software developer with a proven track record in b
  
 ## Tech Stack ##
 **BackEnd** : NodeJs, ExpressJs, Serverless, SailsJs, PHP.<br/>
-**Database** : PostgreSQL, MySql, MongoDB.<br/>
+**Database** : MySql, MongoDB, PostgreSQL.<br/>
 **ORM/ODM** : TypeORM, Mongoose.<br/>
 **Front End Web** : React, Redux ToolKit, Angular 10+, ngrx, jquery.<br/>
-**Front End Mobile** : React Native, IONIC.<br/>
+**Front End Mobile** : React Native, IONIC/Capacitor.<br/>
 **Scripting Languages** : Typescript, Javascript.<br/>
-**INFRA** : AWS S3 Buckets, AWS Lamda Functions, AWS KMS, AWS Transcribe, AWS Couldfront, AWS Lightsail, AWS EC2, AWS Route53 & Firebase.<br/>
+**Cloud** : Amazon Web Services & Firebase.<br/>
 **Desktop Applications** : ElectronJS.<br/>
 **Containers** : Docker.<br/>
-**DNS Management Services** : AWS Route53, Godaddy, Namecheap.<br/>
+**Domain Name Servers** : AWS Route53, Godaddy, Namecheap.<br/>
 ## Testimonial ##
 ```"We worked with Sreejesh Pillai for three years to build our SaaS Looklook. He is the software engineering expert you find and keep. He has comprehensive capabilities and his answer to "is it possible" is consistently YES. He is a man of few words, but he always delivers on time and with confidence. No project is challenging for him, Sreejesh will find a way. There are no communication concerns. If you are looking for a resource with complete integrity you can trust, I recommend Sreejesh with no hesitation."```<br/>
                                   -- Malinda Sanna, Founder & CEO, Spark Ideas LLC.
