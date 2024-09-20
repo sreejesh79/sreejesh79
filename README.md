@@ -8,7 +8,7 @@ An experienced and successful software developer with a proven track record in b
  * Hands-on experience with AWS services.
  
 ## Tech Stack ##
-**BackEnd** : NodeJs, ExpressJs, Serverless, SailsJs, PHP.<br/>
+**BackEnd** : NodeJs, ExpressJs, Serverless (Lamda Functions), SailsJs, PHP.<br/>
 **Database** : MySql, MongoDB, PostgreSQL.<br/>
 **ORM/ODM** : TypeORM, Mongoose.<br/>
 **Front End Web** : React, Redux ToolKit, Angular 10+, ngrx, jquery.<br/>
