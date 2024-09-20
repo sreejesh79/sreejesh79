@@ -4,7 +4,7 @@ Experienced software developer with a proven track record in delivering high-qua
  * With over 20 years of experience in Edu-Tech and Fin-Tech, I specialize in providing SaaS solutions and developing web, desktop, and mobile applications. My expertise extends to client services and project management, ensuring successful outcomes and high-quality deliverables.
  * I have hands-on experience in delivering full-stack SaaS solutions, encompassing both web and mobile applications.
  * I have a strong understanding of the software development life cycle (SDLC), from planning to deployment.
-`* I have a strong understanding of the microservice and multi-tenant application architecture.
+ * I have a strong understanding of the microservice and multi-tenant application architecture.
  * Hands-on experience with AWS services.
  
 ## Tech Stack ##
