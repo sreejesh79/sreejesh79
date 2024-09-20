@@ -5,7 +5,7 @@ Experienced software developer with a proven track record in delivering high-qua
  * I have hands-on experience in delivering full-stack SaaS solutions, encompassing both web and mobile applications.
  * I have a strong understanding of the software development life cycle (SDLC), from planning to deployment.
  * I have a strong understanding of the microservice and multi-tenant application architecture.
- * Hands-on experience with AWS services.
+ * I have Hands-on experience with AWS services.
  
 ## Tech Stack ##
 **BackEnd** : NodeJs, ExpressJs, Serverless (Lamda Functions), SailsJs, PHP.<br/>
