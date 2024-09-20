@@ -1,7 +1,7 @@
 # Solution Architect #
 ## About ##
 An experienced and successful software developer with a proven track record in building web, desktop, and mobile applications. I have consistently delivered high-quality projects on time for clients both in India and internationally. As the Founder and CEO of Kriyatma Infotainment LLP, a consultancy firm specializing in software and entertainment, I effectively manage teams across multiple projects and domains, ensuring excellence in execution and innovation.<br/>
- * 20+ years of experience in Edu-Tech, and Fin-Tech,  providing Saas Solutions, Web, Desktop and Mobile applications, Client Services & Project Management. 
+ * With over 20 years of experience in Edu-Tech and Fin-Tech, I specialize in providing SaaS solutions and developing web, desktop, and mobile applications. My expertise extends to client services and project management, ensuring successful outcomes and high-quality deliverables.
  * 10 years of experience in MEAN Stack & 7 years of experience in MERN Stack Full stack Development.
  * Hands on experience with providing full stack SaaS solutions which includes both web and mobile applications.
  * Good understanding of the microservice and multi-tenant application architecture.
